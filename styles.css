@@ -1,0 +1,32 @@
+.navbar-custom{
+    background-color: lightgreen;
+}
+body{
+    color:#6B8C46 ;
+}
+
+.navtext{
+    color: #6B8C46 ;
+    font-size: 20px;
+    
+}
+.carousel-heading{
+    /* color: darkgreen; */
+    color: #6B8C46 ;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.carousel-text{
+    padding:30px 30% 40px;
+    text-align: center;
+    color: #6B8C46 ;
+    font-size: 20px;
+}
+.carousel-img{
+    
+    margin: auto;
+    display: block;
+    height: 200px;
+    width:350px;
+    border-radius: 50%;
+}
