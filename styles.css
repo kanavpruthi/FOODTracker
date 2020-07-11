@@ -14,21 +14,17 @@ html,body
 
 
 .navtext{
-    color: #6B8C46 ;
     font-size: 20px;
     font-weight: 400;
     
 }
 .carousel-heading{
-    /* color: darkgreen; */
-    color: #6B8C46 ;
     padding-bottom: 30px;
     text-align: center;
 }
 .carousel-text{
     padding:30px 30% 40px;
     text-align: center;
-    color: #6B8C46 ;
     font-size: 20px;
 }
 .carousel-img{
